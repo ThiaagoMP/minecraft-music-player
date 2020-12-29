@@ -1,5 +1,5 @@
 # minecraft-music-player
-A portable minecraft player that converts PCM streams to OGG files using AVENCODER
+A portable minecraft player that converts PCM streams to OGG files using Av-Encoder (Ffmpeg)
 
 ## Summary
 * [Dev Note](#devnote)
